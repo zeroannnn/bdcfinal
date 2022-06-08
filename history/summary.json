@@ -40,19 +40,19 @@
     "url": "https://portal.ncu.edu.tw/login",
     "icon": "https://favicons.githubusercontent.com/portal.ncu.edu.tw",
     "slug": "portal",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1711,
-    "timeDay": 1948,
-    "timeWeek": 1711,
-    "timeMonth": 1711,
-    "timeYear": 1711,
+    "status": "up",
+    "uptime": "98.57%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
+    "time": 1699,
+    "timeDay": 1850,
+    "timeWeek": 1699,
+    "timeMonth": 1699,
+    "timeYear": 1699,
     "dailyMinutesDown": {
-      "2022-06-08": 0
+      "2022-06-08": 21
     }
   },
   {
