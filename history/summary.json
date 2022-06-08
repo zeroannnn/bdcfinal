@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2660,
-    "timeDay": 2660,
-    "timeWeek": 2660,
-    "timeMonth": 2660,
-    "timeYear": 2660,
+    "time": 2854,
+    "timeDay": 2854,
+    "timeWeek": 2854,
+    "timeMonth": 2854,
+    "timeYear": 2854,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2712,
-    "timeDay": 2712,
-    "timeWeek": 2712,
-    "timeMonth": 2712,
-    "timeYear": 2712,
+    "time": 2717,
+    "timeDay": 2717,
+    "timeWeek": 2717,
+    "timeMonth": 2717,
+    "timeYear": 2717,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1474,
-    "timeDay": 1474,
-    "timeWeek": 1474,
-    "timeMonth": 1474,
-    "timeYear": 1474,
+    "time": 1943,
+    "timeDay": 1943,
+    "timeWeek": 1943,
+    "timeMonth": 1943,
+    "timeYear": 1943,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2310,
-    "timeDay": 2310,
-    "timeWeek": 2310,
-    "timeMonth": 2310,
-    "timeYear": 2310,
+    "time": 2165,
+    "timeDay": 2165,
+    "timeWeek": 2165,
+    "timeMonth": 2165,
+    "timeYear": 2165,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3284,
-    "timeDay": 3284,
-    "timeWeek": 3284,
-    "timeMonth": 3284,
-    "timeYear": 3284,
+    "time": 3672,
+    "timeDay": 3672,
+    "timeWeek": 3672,
+    "timeMonth": 3672,
+    "timeYear": 3672,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 838,
-    "timeDay": 838,
-    "timeWeek": 838,
-    "timeMonth": 838,
-    "timeYear": 838,
+    "time": 945,
+    "timeDay": 945,
+    "timeWeek": 945,
+    "timeMonth": 945,
+    "timeYear": 945,
     "dailyMinutesDown": {}
   },
   {
@@ -113,18 +113,18 @@
     "icon": "https://favicons.githubusercontent.com/engli.ncu.edu.tw",
     "slug": "ncue",
     "status": "down",
-    "uptime": "3.45%",
-    "uptimeDay": "3.45%",
-    "uptimeWeek": "3.45%",
-    "uptimeMonth": "3.45%",
-    "uptimeYear": "3.45%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-07": 0
+      "2022-06-07": 1
     }
   }
 ]
