@@ -4,36 +4,39 @@
     "url": "https://im.mgt.ncu.edu.tw/",
     "icon": "https://favicons.githubusercontent.com/im.mgt.ncu.edu.tw",
     "slug": "ncumis",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2629,
     "timeDay": 5180,
     "timeWeek": 2653,
     "timeMonth": 2629,
     "timeYear": 2629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 3
+    }
   },
   {
     "name": "NCU",
     "url": "https://www.ncu.edu.tw/tw/",
     "icon": "https://favicons.githubusercontent.com/www.ncu.edu.tw",
     "slug": "ncu",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 2351,
     "timeDay": 2470,
     "timeWeek": 2121,
     "timeMonth": 2351,
     "timeYear": 2351,
     "dailyMinutesDown": {
+      "2022-06-29": 2,
       "2022-06-20": 22
     }
   },
@@ -63,10 +66,10 @@
     "url": "https://ncueeclass.ncu.edu.tw/",
     "icon": "https://favicons.githubusercontent.com/ncueeclass.ncu.edu.tw",
     "slug": "new-eeclass",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
     "time": 2183,
@@ -75,6 +78,7 @@
     "timeMonth": 2183,
     "timeYear": 2183,
     "dailyMinutesDown": {
+      "2022-06-29": 1,
       "2022-06-23": 30,
       "2022-06-15": 25,
       "2022-06-14": 27,
@@ -86,10 +90,10 @@
     "url": "https://www.csie.ncu.edu.tw/",
     "icon": "https://favicons.githubusercontent.com/www.csie.ncu.edu.tw",
     "slug": "ncucsie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3587,
@@ -97,16 +101,18 @@
     "timeWeek": 3801,
     "timeMonth": 3587,
     "timeYear": 3587,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 1
+    }
   },
   {
     "name": "ncuee",
     "url": "http://www2.ee.ncu.edu.tw/",
     "icon": "https://favicons.githubusercontent.com/www2.ee.ncu.edu.tw",
     "slug": "ncuee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,7 +121,9 @@
     "timeWeek": 1071,
     "timeMonth": 1037,
     "timeYear": 1037,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   },
   {
     "name": "ncue",
